@@ -2,6 +2,7 @@ export const hogwartsRooms = {
 	RAVENCLAW: {
 		name: "Torre de Ravenclaw",
 		background: "url('bgs/ravenclaw_bg.avif')",
+		song: "music/Raven_song.mp3",
 		enemyType: "eagle",
 		colorTheme: "#0E1A40",
 		spawnPoints: [
@@ -13,6 +14,7 @@ export const hogwartsRooms = {
 	GRYFFINDOR: {
 		name: "Sala Común de Gryffindor",
 		background: "url('bgs/gryffindor_bg.avif')",
+		song: "music/Gry_song.mp3",
 		enemyType: "lion",
 		colorTheme: "#740001",
 		spawnPoints: [
@@ -24,6 +26,7 @@ export const hogwartsRooms = {
 	SLYTHERIN: {
 		name: "Mazmorras de Slytherin",
 		background: "url('bgs/slytherin_bg.webp')",
+		song: "music/Sly_song.mp3",
 		enemyType: "snake",
 		colorTheme: "#1A472A",
 		spawnPoints: [
@@ -35,6 +38,7 @@ export const hogwartsRooms = {
 	HUFFLEPUFF: {
 		name: "Cocina de Hufflepuff",
 		background: "url('bgs/hufflepuff_bg.webp')",
+		song: "music/Huff_song.mp3",
 		enemyType: "badger",
 		colorTheme: "#FFDB00",
 		spawnPoints: [
